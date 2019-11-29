@@ -37,3 +37,9 @@ int main()
     Print(p);
     return 0;
 }
+//OUTPUT:
+/*
+Entity
+Player
+*/
+
